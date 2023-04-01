@@ -4,7 +4,12 @@ document.querySelectorAll('.main-banner__img img').forEach(images =>{
         document.querySelector('.main-banner-content__img--btn').src = src;
     }
 });
-
+function openMenu() {
+    document.location.href="menu.html"
+   }
+   function goHome() {
+      document.location.href="index.html"
+   }
 var swiper = new Swiper(".main-evaluate-content", {
     spaceBetween: 20,
     pagination: {
@@ -26,9 +31,3 @@ var swiper = new Swiper(".main-evaluate-content", {
     loop : true,
     grabCursor: true,
   });
- function openMenu() {
-  document.location.href="menu.html"
- }
- function goHome() {
-    document.location.href="index.html"
- }

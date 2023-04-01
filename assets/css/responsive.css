@@ -20,6 +20,10 @@
 	.header {
 		padding: 2rem 0;
 	}
+	.main-banner-content {
+		
+		text-align: center;
+	}
 	.main-about-img img {
 		display: none;
 	}
@@ -37,6 +41,7 @@
 	.home .home-slider .slide .image{
 		display: none;
 	}
+
 }
    
    
