@@ -109,6 +109,11 @@
 		text-align: center;
 		
 	}
+
+	.main-staff__heading h1 {
+		font-size: 6.2rem;
+		
+	}
 	.footer-content__infor,
 	.footer-content__deadlock {
 		border-bottom: 1px solid rgba(68, 68, 51,0.3);
