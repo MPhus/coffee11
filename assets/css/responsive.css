@@ -113,5 +113,7 @@
 	.footer-content__deadlock {
 		border-bottom: 1px solid rgba(68, 68, 51,0.3);
 	}
-	
+	.resp-mobie {
+		width: 290px !important;
+	}
 }
